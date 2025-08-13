@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">I'm Varun Tomar works works as a Full Stack Developer.</h3>
+<h3 align="left">I'm Varun Tomar works as a Full Stack Developer.</h3>
 
 ###
 
